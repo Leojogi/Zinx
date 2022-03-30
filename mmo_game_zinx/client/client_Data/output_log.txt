@@ -1,0 +1,32 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MingmingCheng\Documents\project\mmo_game_zinx\client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4500x1354 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.590600 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5b90 -> priority: 1 
+  Thread -> id: 30c4 -> priority: 1 
